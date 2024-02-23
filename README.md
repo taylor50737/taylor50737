@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Taylor E-Store](https://github.com/taylor50737/Taylor-E-Store)
 
-- 🌱 I’m currently learning **ASP.NET Core and NextJS**
+- 🌱 I’m currently learning **ASP.NET Core and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://taylorphlo.vercel.app/](https://taylorphlo.vercel.app/)
 
