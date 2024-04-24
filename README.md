@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Taylor E-Store](https://github.com/taylor50737/Taylor-E-Store)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, JavaScript Unit Testing (Jest), and NextJS**
+- 🌱 I’m currently learning **Data Structures & Algorithms, Flutter & Dart, and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://taylorphlo.vercel.app/](https://taylorphlo.vercel.app/)
 
