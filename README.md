@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylor50737&label=Profile%20views&color=0e75b6&style=flat-square" alt="taylor50737" /> </p>
 
-- 🔭 I’m currently working on [Taylor E-Store](https://github.com/taylor50737/Taylor-E-Store)
+- 🔭 I’m currently working on [Financial Tracker](https://github.com/taylor50737/financial-tracker)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Nuxt**
 
