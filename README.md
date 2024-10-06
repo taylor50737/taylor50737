@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taylor50737&show_icons=true&locale=en&layout=compact" alt="taylor50737" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taylor50737&theme=default" alt="taylor50737" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=taylor50737&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></p>
